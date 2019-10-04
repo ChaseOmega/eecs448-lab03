@@ -1,0 +1,23 @@
+p
+{
+    background-color: lightblue;
+    font-size: 20pt;
+    color: purple;
+
+
+}
+
+body
+{
+  background-color: aqua;
+  background-image: url(Pictures/Pic2.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+
+}
+a
+{
+background-color: lightblue;
+font-size: 18px;
+color: purple;
+}
